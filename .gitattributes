@@ -1,1 +1,2 @@
-*.asc linguist-detectable=false
+*.dbc linguist-vendored linguist-detectable=false
+*.asc linguist-vendored linguist-detectable=false
