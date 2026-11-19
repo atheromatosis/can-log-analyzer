@@ -186,3 +186,5 @@ class CANLogAnalyzer:
             anomalies=anomalies,
             aeb_activations=aeb_activations,
         )
+
+
