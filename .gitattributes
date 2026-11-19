@@ -1,2 +1,2 @@
-*.dbc linguist-vendored
-*.asc linguist-vendored
+*.dbc linguist-language=Text
+*.asc linguist-language=Text
